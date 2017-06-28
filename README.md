@@ -5,8 +5,8 @@
 <table>
     <thead>
         <tr>
-            <th style="width:400px">名称</th>
-            <th>值</th>
+            <th style="width:20px">名称</th>
+            <th style="width:50px">值</th>
             <th><font color="Hotpink">备注</th>
         </tr>
     </thead>
